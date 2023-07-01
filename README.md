@@ -6,6 +6,8 @@
 
 ![Frank Steps GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoLaFox&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoLaFox&hide_progress=true)
+
 ## Linguagens de programação que uso geralmente
 
 <div style="display: inlineblock" ><br/>
