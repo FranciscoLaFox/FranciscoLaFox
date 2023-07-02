@@ -4,7 +4,8 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@FrankSteps)
 [![YouTube](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/comissoespassos)
 
-![Frank Steps GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoLaFox&show_icons=true&theme=chartreuse-dark)
+![Frank Steps GitHub stats](https://github-readme-stats.vercel.app/api?username=FranciscoLaFox&show_icons=true&theme=chartreuse-dark) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoLaFox&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Linguagens de programação que uso geralmente
 
